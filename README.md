@@ -149,7 +149,7 @@ Maven
 
 ### Steps
 ```bash
-git clone https://github.com/Sanket2428/springboot-basic-starter.git
+git clone https://github.com/sanket-khavale/springboot-basic-starter.git
 cd SampleProject
 mvn spring-boot:run
 ```
